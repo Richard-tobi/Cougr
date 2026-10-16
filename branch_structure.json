@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-411-fix-accounts-bind-the-intent-hash-to-account",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-411-fix-accounts-bind-the-intent-hash-to-account": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-411-fix-accounts-bind-the-intent-hash-to-account",
+    "origin"
+  ]
+}
